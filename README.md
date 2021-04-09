@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @izabella602
-- 👀 I’m interested in coding, especially javascript and html.
+- 👀 I’m interested in coding, especially python, javascript and html.
 - 🌱 I’m currently learning javascript.
 - 💞️ I’m looking to collaborate on intresting projects, like improve websites.
 - 📫 How to reach me via GITHUB or linkedin.
